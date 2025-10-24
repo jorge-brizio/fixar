@@ -186,8 +186,8 @@ SOFTWARE.
 ## 👤 Author
 
 **Jorge**  
-📧 Email: [your.email@example.com]  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: [devnalua@gmail.com]  
+🔗 GitHub: [@jorge-brizio](https://github.com/jorge-brizio)
 
 ## 🌟 Acknowledgments
 
